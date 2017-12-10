@@ -7,7 +7,7 @@
     "url": "git+https://github.com/hemanth/crypto-jargon.git"
   },
   "scripts": {
-    "test": "eslint readme.md && exit 0",
+    "test": "eslint readme.md",
     "toc": "roadmarks && exit 0"
   },
   "author": "Hemanth.HM <hemanth.hm@gmail.com>",
