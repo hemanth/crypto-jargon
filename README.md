@@ -7,7 +7,7 @@ __TOC:__
 
 * [altcoin](#altcoin)
 * [bitcoin](#bitcoin)
-* [etherium](#etherium)
+* [ethereum](#ethereum)
 * [satoshi](#satoshi)
 * [blockchain](#blockchain)
 * [block](#block)
@@ -35,7 +35,7 @@ Any coin apart from Bitcoin. (“alternative to Bitcoin”)
 
 ## bitcoin
 A Peer-to-Peer Electronic Cash System and a digital asset by conceptualized Satoshi Nakamoto.
-## etherium
+## ethereum
 Ethereum is a decentralized platform that runs smart contracts.
 ## satoshi
 The satoshi represents one hundred millionth of a bitcoin, the smallest unit of a bitcoin.
