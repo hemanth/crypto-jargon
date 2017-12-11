@@ -34,7 +34,7 @@ __TOC:__
 Any coin apart from Bitcoin. (“alternative to Bitcoin”)
 
 ## bitcoin
-A Peer-to-Peer Electronic Cash System and a digital asset by conceptualized Satoshi Nakamoto.
+A Peer-to-Peer Electronic Cash System and a digital asset conceptualized by Satoshi Nakamoto.
 ## ethereum
 Ethereum is a decentralized platform that runs smart contracts.
 ## satoshi
