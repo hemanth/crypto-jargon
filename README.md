@@ -14,7 +14,7 @@ __TOC:__
 * [mining](#mining)
 * [smart contract](#smart-contract)
 * [hash](#hash)
-* [HODL](#hlod)
+* [HODL](#hodl)
 * [FOMO](#fomo)
 * [ICO](#ico)
 * [Market Cap](#market-cap)
