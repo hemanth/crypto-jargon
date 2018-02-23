@@ -14,7 +14,7 @@ __TOC:__
 * [mining](#mining)
 * [smart contract](#smart-contract)
 * [hash](#hash)
-* [HLOD](#hlod)
+* [HODL](#hodl)
 * [FOMO](#fomo)
 * [ICO](#ico)
 * [Market Cap](#market-cap)
@@ -47,7 +47,7 @@ An open, distributed, decentralized, immutable digital ledger.
 ## smart contract
 ## hash
 
-## HLOD
+## HODL
 
 ## FOMO
 
